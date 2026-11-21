@@ -10,3 +10,6 @@ test("mytest",async({page})=>{
 //git status
 //git add . 
 //git config --global  user.name "ishaqkuruniyan"
+//git config --global  user.email "muhdishaqk10@gmail.com"
+//git commit -m "first commit"
+//git push -u origin main
